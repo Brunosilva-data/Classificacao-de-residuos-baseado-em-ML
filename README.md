@@ -93,5 +93,5 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 Para dúvidas ou mais informações, entre em contato com:
 
-- **Desenvolvedor:** Camilla Soares Sousa
-- **E-mail:** [camillasoares818@gmail.com]
+- **Desenvolvedor:** Bruno Silva
+- **E-mail:** [brunno.allves2016@gmail.com]
