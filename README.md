@@ -85,6 +85,30 @@ O sistema é composto por quatro partes principais:
 3. Visualize o resultado da classificação e obtenha instruções de descarte.
 4. Forneça feedback sobre a precisão da classificação.
 
+## Links Úteis
+
+## 1. Frontend
+- **Repositório**: [GitHub - BrazRecicla Frontend](https://github.com/camiwr/brazrecicla-front-end.git)
+- **Instalação**:
+  - `npm install` para dependências
+  - `npx expo start` para rodar o app
+
+## 2. Backend
+- **Repositório**: [GitHub - BrazRecicla Backend](https://github.com/camiwr/brazRecicla-back-end)
+- **Documentação API**: [BrazRecicla Backend API](https://brazrecicla-back-end-production.up.railway.app/docs)
+- **Endpoints**:
+  - Classificação: `POST /classify/`
+  - Feedback: `POST /feedbacks/`
+  - Lista de feedbacks: `GET /feedbacks/`
+
+## 3. Modelo de Machine Learning
+- **Dataset**: [Google Drive - Dataset](https://drive.google.com/drive/folders/1QG__yWSk2lG_IsFNaR8_3wLDpVdCtUya?usp=sharing)
+- **Treinamento**: [Google Colab - Treinamento de Resíduos](https://colab.research.google.com/)
+
+## 4. Design e Interface
+- **Design**: [Figma - Design da Interface](#)
+
+
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
