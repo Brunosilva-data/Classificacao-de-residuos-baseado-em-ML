@@ -106,7 +106,7 @@ O sistema é composto por quatro partes principais:
 - **Treinamento**: [https://colab.research.google.com/drive/1bHeq_2f9EdJ84O1rrmA01jIct_wj5jhA)
 
 ## 4. Design e Interface
-- **Design**: [Figma - Design da Interface](#)
+- **Design**: [https://www.figma.com/design/798PQZldCQgnwUOiJ0fHTI/BrazRecicla?node-id=0-1&node-type=canvas&t=DARyGYPv2KCGMzlX-0](#)
 
 
 ## Licença
