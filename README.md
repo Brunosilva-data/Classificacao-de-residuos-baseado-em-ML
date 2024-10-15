@@ -88,13 +88,13 @@ O sistema é composto por quatro partes principais:
 ## Links Úteis
 
 ## 1. Frontend
-- **Repositório**: [GitHub - BrazRecicla Frontend](https://github.com/camiwr/brazrecicla-front-end.git)
+- **Repositório**: [GitHub - BrazRecicla Frontend](https://github.com/Brunosilva-data/brazrecicla-front-end.git)
 - **Instalação**:
   - `npm install` para dependências
   - `npx expo start` para rodar o app
 
 ## 2. Backend
-- **Repositório**: [GitHub - BrazRecicla Backend](https://github.com/camiwr/brazRecicla-back-end)
+- **Repositório**: [GitHub - BrazRecicla Backend](https://github.com/Brunosilva-data/brazRecicla-back-end.git)
 - **Documentação API**: [BrazRecicla Backend API](https://brazrecicla-back-end-production.up.railway.app/docs)
 - **Endpoints**:
   - Classificação: `POST /classify/`
