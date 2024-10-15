@@ -103,7 +103,7 @@ O sistema é composto por quatro partes principais:
 
 ## 3. Modelo de Machine Learning
 - **Dataset**: [Google Drive - Dataset](https://drive.google.com/drive/folders/1QG__yWSk2lG_IsFNaR8_3wLDpVdCtUya?usp=sharing)
-- **Treinamento**: [Google Colab - Treinamento de Resíduos](https://colab.research.google.com/)
+- **Treinamento**: [https://colab.research.google.com/drive/1bHeq_2f9EdJ84O1rrmA01jIct_wj5jhA)
 
 ## 4. Design e Interface
 - **Design**: [Figma - Design da Interface](#)
